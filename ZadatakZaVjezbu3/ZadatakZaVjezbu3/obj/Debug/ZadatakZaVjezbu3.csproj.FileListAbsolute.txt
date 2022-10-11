@@ -1,0 +1,8 @@
+C:\Users\matej\source\repos\ZadatakZaVjezbu3\ZadatakZaVjezbu3\bin\Debug\ZadatakZaVjezbu3.exe.config
+C:\Users\matej\source\repos\ZadatakZaVjezbu3\ZadatakZaVjezbu3\bin\Debug\ZadatakZaVjezbu3.exe
+C:\Users\matej\source\repos\ZadatakZaVjezbu3\ZadatakZaVjezbu3\bin\Debug\ZadatakZaVjezbu3.pdb
+C:\Users\matej\source\repos\ZadatakZaVjezbu3\ZadatakZaVjezbu3\obj\Debug\ZadatakZaVjezbu3.csproj.AssemblyReference.cache
+C:\Users\matej\source\repos\ZadatakZaVjezbu3\ZadatakZaVjezbu3\obj\Debug\ZadatakZaVjezbu3.csproj.SuggestedBindingRedirects.cache
+C:\Users\matej\source\repos\ZadatakZaVjezbu3\ZadatakZaVjezbu3\obj\Debug\ZadatakZaVjezbu3.csproj.CoreCompileInputs.cache
+C:\Users\matej\source\repos\ZadatakZaVjezbu3\ZadatakZaVjezbu3\obj\Debug\ZadatakZaVjezbu3.exe
+C:\Users\matej\source\repos\ZadatakZaVjezbu3\ZadatakZaVjezbu3\obj\Debug\ZadatakZaVjezbu3.pdb
